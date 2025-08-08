@@ -6,6 +6,7 @@ Creative and analytical thinker with a passion for solving real-world problems u
 ---
 
 ## 🧠 About Me
+![AI Icon](https://img.icons8.com/ios/50/000000/brain.png)  
 - 🌟 Passionate about **AI, Machine Learning, and Generative AI**
 - 🔬 Exploring **Deep Learning, Computer Vision**, and **LLMs**
 - 🚀 Building and sharing **end-to-end AI/ML projects**
