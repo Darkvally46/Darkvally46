@@ -25,28 +25,28 @@ MongoDB • MySQL • OpenCV • TensorFlow • Jupyter • NumPy • PyCharm �
 ## 🚀 Projects Showcase – by Jayesh
 
 ### 🛡️ Cyber Malware Detection using ML  
-![Cyber Malware Detection](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d)  
+![Cyber Malware Detection](https://images.unsplash.com/photo-1549924231-f129b911e442)  
 A ransomware detection system achieving 99% accuracy using Random Forest and feature selection techniques.  
 🔗 [View on GitHub](#)
 
 ---
 
 ### 📊 SPI – Student Performance Insights  
-![Student Performance](https://images.unsplash.com/photo-1573497491208-6b1acb260507)  
+![Student Performance](https://images.unsplash.com/photo-1549924231-f129b911e442)  
 Built regression models to analyze academic scores and delivered insights on how socioeconomic factors affect student outcomes.  
 🔗 [View on GitHub](#)
 
 ---
 
 ### ✈️ Customer Flight Booking Prediction – British Airways  
-![Flight Booking](https://images.unsplash.com/photo-1529070538774-1843cb3265df)  
+![Flight Booking](https://images.unsplash.com/photo-1549924231-f129b911e442)  
 Analyzed airline booking data and built classification models to predict customer booking behavior and support business decisions.  
 🔗 [View on GitHub](#)
 
 ---
 
 ### 💳 Credit Card Fraud Detection  
-![Credit Card Fraud](https://images.unsplash.com/photo-1588776814546-ac9eb61d9f8e)  
+![Credit Card Fraud](https://images.unsplash.com/photo-1549924231-f129b911e442)  
 Developed a fast fraud detection model using Snap ML and Scikit-Learn; achieved 98% ROC-AUC using Decision Trees and SVM.  
 🔗 [View on GitHub](#)
 
