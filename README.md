@@ -40,6 +40,8 @@ Creative and analytical thinker with a passion for solving real-world problems u
 <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
 
+
+
 ---
 
 ## 📈 GitHub Stats
