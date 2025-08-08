@@ -54,12 +54,16 @@ Developed a fast fraud detection model using Snap ML and Scikit-Learn; achieved 
 
 ## 📊 GitHub Stats
 
+<!-- These images showcase your GitHub activity and language usage -->
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=8)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
+*Displays your most used programming languages.*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)  
+*Shows your overall GitHub activity, contribution streaks, and stats.*
 
 ---
 
 ## 🔗 Connect with Me
 
 [LinkedIn](#) • [Instagram](#)
-
