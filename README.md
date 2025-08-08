@@ -1,69 +1,57 @@
 # 👋 Hi, I'm Jayesh Patil
 
-🎓 Computer Engineering Graduate | 🤖 AI & Machine Learning Enthusiast  
-Creative and analytical thinker passionate about building intelligent systems that solve real-world problems.
+🎓 Computer Engineering graduate | 🤖 AI & Machine Learning Enthusiast  
+Creative and analytical thinker with a passion for solving real-world problems using data and code.
 
 ---
 
-## 💡 About Me
-
-- 🔬 Passionate about AI, Machine Learning, and Generative AI  
-- 🧠 Exploring Deep Learning, NLP, and Computer Vision  
-- 🌱 Constantly learning and experimenting with new ML models  
-- 🤝 Open to collaborations in AI/ML and data-driven projects  
-- 📫 Reach me at: patiljayesh038@gmail.com  
-
----
-
-## 🛠️ Skills & Tools
-
-HTML5 • CSS3 • Python • C • FastAPI • Figma  
-MongoDB • MySQL • OpenCV • TensorFlow • Jupyter • NumPy • PyCharm • PyTorch
+## 🧠 About Me
+- 🌟 Passionate about **AI, Machine Learning, and Generative AI**
+- 🔬 Exploring **Deep Learning, Computer Vision**, and **LLMs**
+- 🚀 Building and sharing **end-to-end AI/ML projects**
+- 📊 Skilled in Python, FastAPI, Scikit-Learn, Pandas, NumPy, MongoDB, MySQL, OpenCV, TensorFlow, PyTorch
+- 🌐 Familiar with HTML5, CSS3, Figma for frontend design
+- 🤝 Open to **collaborations on AI-driven projects**
 
 ---
 
-## 🚀 Projects Showcase – by Jayesh
+## 📫 Reach Me
+📧 **jayeshpatil683289@gmail.com** 
 
-### 🛡️ Cyber Malware Detection using ML  
-![Cyber Malware Detection](https://images.unsplash.com/photo-1549924231-f129b911e442)  
-A ransomware detection system achieving 99% accuracy using Random Forest and feature selection techniques.  
-🔗 [View on GitHub](#)
-
----
-
-### 📊 SPI – Student Performance Insights  
-![Student Performance](https://images.unsplash.com/photo-1549924231-f129b911e442)  
-Built regression models to analyze academic scores and delivered insights on how socioeconomic factors affect student outcomes.  
-🔗 [View on GitHub](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-patil46/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_jayesh__patil___/)
 
 ---
 
-### ✈️ Customer Flight Booking Prediction – British Airways  
-![Flight Booking](https://images.unsplash.com/photo-1549924231-f129b911e442)  
-Analyzed airline booking data and built classification models to predict customer booking behavior and support business decisions.  
-🔗 [View on GitHub](#)
+## 🧰 Tech Stack
+<img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-C-blue?logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/-Figma-f24e1e?logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white" />
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
 
 ---
 
-### 💳 Credit Card Fraud Detection  
-![Credit Card Fraud](https://images.unsplash.com/photo-1549924231-f129b911e442)  
-Developed a fast fraud detection model using Snap ML and Scikit-Learn; achieved 98% ROC-AUC using Decision Trees and SVM.  
-🔗 [View on GitHub](#)
+## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkvally46&layout=compact&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darkvally46&show_icons=true&theme=radical)
 
 ---
 
-## 📊 GitHub Stats
 
-<!-- These images showcase your GitHub activity and language usage -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=8)  
-*Displays your most used programming languages.*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)  
-*Shows your overall GitHub activity, contribution streaks, and stats.*
+## 🧪 Projects Showcase  
+👉 Visit my repositories for complete code, notebooks, and documentation.  
+📌 Stay tuned as I keep adding new **AI/ML projects** to my portfolio!
 
 ---
 
-## 🔗 Connect with Me
-
-[LinkedIn](#) • [Instagram](#)
