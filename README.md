@@ -25,12 +25,12 @@ Creative and analytical thinker with a passion for solving real-world problems u
 ---
 
 ## 🧰 Tech Stack
-<img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-C-blue?logo=c&logoColor=white" /><img src="https://img.shields.io/badge/-Figma-f24e1e?logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" /><img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" />
-
-
-
+<<img src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-C-blue?logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/-Figma-f24e1e?logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white" />
